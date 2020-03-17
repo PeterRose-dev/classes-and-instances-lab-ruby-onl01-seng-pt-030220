@@ -4,7 +4,7 @@ class Person
   end
   def name 
     @name
-def 
+  end
 end
 adele_goldberg = Person.new 
 alan_kay = Person.new 
